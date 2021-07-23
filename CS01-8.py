@@ -1,3 +1,3 @@
 A = int(input('Enter number: '))
-for A in range(100):
-    print(A)
+for i in range(100):
+    print(i+A)
